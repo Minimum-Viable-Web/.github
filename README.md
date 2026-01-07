@@ -1,6 +1,6 @@
 # Minimum Viable Web
 
-This org contains repositories with the aim of creating a web development framework that is functinal to modern standards but without the years of bloat.
+This org contains repositories with the aim of creating a web development framework that meets modern standards but without the years of technical bloat using only pure Javascript, HTML, CSS, C languages with minimal or no dependencies.
 
 ---
 ## The tiny web ecosystem
@@ -10,3 +10,4 @@ This org contains repositories with the aim of creating a web development framew
 ### [WGPUC](https://github.com/Minimum-Viable-Web/wgpuc) - C99 implementation of the WC3 WebGPU standard.
 ### [Minirend](https://github.com/Minimum-Viable-Web/Minirend) - A minimal portable cross-platform web app runtime in C99.
 ---
+
