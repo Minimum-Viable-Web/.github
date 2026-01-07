@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="512" height="512">
+  <!-- C-style hexagon with JS yellow fill -->
+  <polygon 
+    points="100,10 180,52 180,148 100,190 20,148 20,52" 
+    fill="#F7DF1E"
+  />
+  
+  <!-- MVW text in black - clean sans-serif style -->
+  <text 
+    x="100" 
+    y="115" 
+    font-family="Arial Black, Arial, sans-serif" 
+    font-weight="900" 
+    font-size="52" 
+    fill="#323330"
+    text-anchor="middle"
+  >MVW</text>
+</svg>
