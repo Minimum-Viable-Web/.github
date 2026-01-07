@@ -1,6 +1,10 @@
 # Minimum Viable Web
 
-This org contains repositories with the aim of creating a web development framework that meets modern standards but without the years of technical bloat using only pure Javascript, HTML, CSS, C languages with minimal or no dependencies.
+## The aim of the repositories in this organization is the following:
+- Reduce the learning curve, technical debt and dependency bloat from years of competing frameworks and platforms.
+- LLMs require less context switching and have more knowledge of pure long-standing standardized languages.
+- Run on all major platforms with minimal steps, the simplest & smallest solution is the best solution.
+- Write only pure Javascript, HTML, CSS, C code to the latest modern cross-platform standard with backward compatibility.
 
 ---
 ## The tiny web ecosystem
