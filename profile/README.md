@@ -8,6 +8,7 @@
 
 ---
 ## The tiny web ecosystem
+### [Ministyle](https://github.com/Minimum-Viable-Web/Ministyle) - A tiny css framework designed for accessibility.
 ### [Minibun](https://github.com/Minimum-Viable-Web/Minibun) - A tiny javascript bundler implementation.
 ### [minima-js](https://github.com/Minimum-Viable-Web/minima-js) - A tiny, fully-featured, zero-dependency JavaScript framework.
 ### [LLM Tiny Web](https://github.com/Minimum-Viable-Web/LLM-Agent-Tiny-Web-Instructions) - Optimized LLM instructions for writing tiny web code.
